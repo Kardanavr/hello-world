@@ -1,11 +1,11 @@
 # hello-world
-hello, git
+Hello, git.
 
-dunno what to write here
-just wanted you to know that i've started making a good programmer from myself 
-right now i am not so good in my opinion
-but i'm doing my best
-thank you for all the future help
+Dunno what to write here.
+Just wanted you to know that i've started making a good programmer from myself. 
+Right now i am not so good in my opinion..
+But i'm doing my best.
+Thank you for all the future help.
 
-sincerely,
+Sincerely,
 Kard
